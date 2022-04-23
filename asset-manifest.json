@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/encrypdecrypmobile-deploy/static/css/main.5c5a1d28.css",
+    "main.js": "/encrypdecrypmobile-deploy/static/js/main.5e7e5f46.js",
+    "static/media/EncryDecrypOutput.mp4": "/encrypdecrypmobile-deploy/static/media/EncryDecrypOutput.60801315644d8ec300f7.mp4",
+    "index.html": "/encrypdecrypmobile-deploy/index.html",
+    "main.5c5a1d28.css.map": "/encrypdecrypmobile-deploy/static/css/main.5c5a1d28.css.map",
+    "main.5e7e5f46.js.map": "/encrypdecrypmobile-deploy/static/js/main.5e7e5f46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c5a1d28.css",
+    "static/js/main.5e7e5f46.js"
+  ]
+}
