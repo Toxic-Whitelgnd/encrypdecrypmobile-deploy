@@ -1,0 +1,29 @@
+.videocontainer{
+    background-color: aqua;
+}
+.header{
+    text-align: center;
+    font-size: 34px;
+    overflow: hidden;
+    background: black;
+    color:white;
+    
+}
+.videocontent{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    background: rgb(29,214,21);
+    
+    background: linear-gradient(34deg, rgba(29,214,21,1) 0%, rgba(255,0,0,1) 53%, rgba(0,65,255,1) 97%);
+}
+.control{
+    border-radius: 50px;
+}
+.foo{
+    overflow: hidden;
+    text-align: center;
+    font-size: 23px;
+    background-color: black;
+    color: white;
+}
